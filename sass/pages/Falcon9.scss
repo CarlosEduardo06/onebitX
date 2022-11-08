@@ -1,0 +1,87 @@
+.container01-Falcon9 {
+  background-image: url("../falcon9/01.jpg");
+  .content-text-falcon9 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80vh;
+  }
+
+  .FalconTittle {
+    font-family: "Rubik", sans-serif;
+    font-size: 90px;
+  }
+}
+
+.numbersFalcon {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 40vh;
+  .numTitle {
+    font-size: 90px;
+  }
+  .subTitleNum {
+    font-size: 20px;
+  }
+}
+
+.container02-Falcon9 {
+  background-image: url("../falcon9/02.jpg");
+  .ContainerFalconDesc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 90vh;
+
+    .descFalcon9 {
+      font-size: 22px;
+      width: 50vw;
+      line-height: 50px;
+    }
+  }
+}
+
+.carrosel-bg01 {
+  background-image: url("../falcon9/03.jpg");
+}
+.carrosel-bg02 {
+  background-image: url("../falcon9/04.jpg");
+}
+.carrosel-bg03 {
+  background-image: url("../falcon9/05.jpg");
+}
+.carrosel-bg04 {
+  background-image: url("../falcon9/06.jpg");
+}
+.carrosel-bg05 {
+  background-image: url("../falcon9/07.jpg");
+}
+
+#width-Container {
+  margin-left: 13%;
+  padding-top: 15%;
+  width: 500px;
+}
+.container04-Falcon9 {
+  background-image: url("../falcon9/08.jpg");
+}
+
+.carrosselSlide {
+  img {
+    height: 100vh;
+  }
+}
+
+/*
+.bg-carrossel02-01 {
+  background-image: url("../falcon9/09.jpg");
+}
+.bg-carrossel02-02 {
+  background-image: url("../falcon9/10.jpg");
+}
+.bg-carrossel02-03 {
+  background-image: url("../../falcon9/11.jpg");
+}
+*/

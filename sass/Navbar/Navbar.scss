@@ -1,0 +1,21 @@
+//headers and Navbars-styles
+#bg-style {
+  background-color: rgba(255, 255, 255, 0.2);
+  transition: 0.4s;
+  &:hover {
+    background-color: rgb(255, 255, 255, 0.8);
+  }
+}
+.header-style {
+  width: 100%;
+  font-size: 12px;
+  font-weight: bolder;
+}
+.img-navbar-style {
+  margin: 0 20px 0 -10px;
+  width: 240px;
+  margin-right: 20px;
+}
+.anchor-link-navbar {
+  color: white;
+}
